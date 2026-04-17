@@ -55,9 +55,8 @@ i ship more than i coursework.
 ### ⌒☆ find me
 
 portfolio · [heyvaish.dev](https://heyvaish.dev)  
-linkedin · [in/your-handle](https://linkedin.com/in/your-handle)  
-twitter · [@your-handle](https://twitter.com/your-handle)  
-email · your@email.com
+linkedin · [vaishnavijadhav05](https://www.linkedin.com/in/vaishnavijadhav05/)  
+twitter · [@VaishnaviJ05](https://x.com/VaishnaviJ05)  
 
 <div align="center">
 
