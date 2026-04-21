@@ -27,7 +27,6 @@ i ship more than i coursework.
 | project | tldr |
 |---|---|
 | **[redacted lore](https://github.com/VaishJadhavVJ/redacted-lore)** | collaborative worldbuilding on reddit. solo build. react, typescript, devvit, redis |
-| **[graphics.h compiler](https://graphics-h-compiler.vercel.app)** | live online compiler for legacy c graphics with an ai copilot. cloudflare workers + d1 |
 | **urbanscale** | maskableppo warehouse placement for q-commerce. nvidia spark hack '25, top 30 nationally |
 | **kindred** | relationship intelligence engine. best project @ trae/z.ai hackathon, uchicago |
 | **[moral machine llm](https://github.com/VaishJadhavVJ/Moral-Machine-LLM-vs-Human-Ethical-Analysis)** | measuring moral divergence between humans and llms on the mit moral machine dataset |
