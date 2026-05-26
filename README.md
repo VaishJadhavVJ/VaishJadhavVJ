@@ -53,18 +53,18 @@ i ship more than i coursework. i'd love to see where my future lies, somewhere i
 ### ⌒☆ current setup
 
 ```
-editor       claude code + antigravity ide
-notes        notion + obsidian
-deploy       vercel + cloudflare
-hours        2am ~ 6am, mostly
-fuel         chai, lofi, anime ost
+editor       claude code, antigravity
+notes        notion
+deploy       cloudflare, supabase, snowflake, vercel, digital ocean
+hours        midnight
+fuel         coffee, songs i don't even understand, lock in
 ```
 
 ### ✦ find me
 
 portfolio · [heyvaish.dev](https://heyvaish.dev)  
-linkedin · [in/your-handle](https://linkedin.com/in/your-handle)  
-twitter · [@your-handle](https://twitter.com/your-handle)  
+linkedin · [in/vaishnavipjadhav](https://www.linkedin.com/in/vaishnavipjadhav/)  
+twitter · [@VaishnaviJ05](https://x.com/VaishnaviJ05)  
 email · your@email.com
 
 <div align="center">
