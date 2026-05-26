@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180" role="img" aria-label="roadmap: ibm to pivot to uic to now">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- connecting line -->
+  <line x1="100" y1="80" x2="700" y2="80" stroke="#f5a623" stroke-width="2" stroke-dasharray="5,6" opacity="0.55"/>
+
+  <!-- node: ibm -->
+  <circle cx="100" cy="80" r="11" fill="#1a1b26" stroke="#f5a623" stroke-width="2.5"/>
+  <circle cx="100" cy="80" r="4" fill="#f5a623"/>
+  <text x="100" y="125" text-anchor="middle" fill="#c0caf5" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14" font-weight="600">ibm</text>
+  <text x="100" y="144" text-anchor="middle" fill="#565f89" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11">application dev</text>
+
+  <!-- node: pivot -->
+  <circle cx="300" cy="80" r="11" fill="#1a1b26" stroke="#f5a623" stroke-width="2.5"/>
+  <circle cx="300" cy="80" r="4" fill="#f5a623"/>
+  <text x="300" y="125" text-anchor="middle" fill="#c0caf5" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14" font-weight="600">pivot</text>
+  <text x="300" y="144" text-anchor="middle" fill="#565f89" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11">into ai/ml</text>
+
+  <!-- node: uic -->
+  <circle cx="500" cy="80" r="11" fill="#1a1b26" stroke="#f5a623" stroke-width="2.5"/>
+  <circle cx="500" cy="80" r="4" fill="#f5a623"/>
+  <text x="500" y="125" text-anchor="middle" fill="#c0caf5" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14" font-weight="600">uic</text>
+  <text x="500" y="144" text-anchor="middle" fill="#565f89" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11">ms cs '25</text>
+
+  <!-- node: now (highlighted) -->
+  <circle cx="700" cy="80" r="15" fill="#f5a623" opacity="0.18" filter="url(#glow)"/>
+  <circle cx="700" cy="80" r="11" fill="#f5a623" stroke="#f5a623" stroke-width="2.5"/>
+  <circle cx="700" cy="80" r="4" fill="#1a1b26"/>
+  <text x="700" y="125" text-anchor="middle" fill="#f5a623" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14" font-weight="700">now</text>
+  <text x="700" y="144" text-anchor="middle" fill="#565f89" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11">building things</text>
+
+  <!-- subtle top label -->
+  <text x="400" y="35" text-anchor="middle" fill="#565f89" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="11" letter-spacing="2">— the path so far —</text>
+</svg>
