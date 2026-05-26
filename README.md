@@ -65,7 +65,6 @@ fuel         coffee, songs i don't even understand, lock in
 portfolio · [heyvaish.dev](https://heyvaish.dev)  
 linkedin · [in/vaishnavipjadhav](https://www.linkedin.com/in/vaishnavipjadhav/)  
 twitter · [@VaishnaviJ05](https://x.com/VaishnaviJ05)  
-email · your@email.com
 
 <div align="center">
 
