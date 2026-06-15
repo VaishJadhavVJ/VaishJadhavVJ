@@ -25,9 +25,9 @@ i ship more than i coursework. i'd love to see where my future lies, somewhere i
 
 ### ✿ currently
 
-- cooking **v1 of kindred**, a relationship intelligence engine for professional networking
-- researching entropy-based selective prm verification for llm reasoning (cs 517)
-- hunting summer 2026 internships at early-stage startups
+- building multi-agent causal discovery pipeline for Alzheimer's biomarkers (UIC/Penn State)
+- SWE intern @ KNOWN, shipping AI features for hormonal health
+- entropy prophet — entropy-based LLM calibration for prediction markets
 
 ### ✦ shipped
 
