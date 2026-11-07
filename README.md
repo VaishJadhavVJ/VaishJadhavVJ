@@ -100,7 +100,6 @@ fuel         coffee, songs i don't even understand, lock in
 
 portfolio · [heyvaish.dev](https://www.heyvaish.dev)  
 courtroom · [heyvaish.dev/court](https://www.heyvaish.dev/court)  
-email · [vaishnavipjadhav55@gmail.com](mailto:vaishnavipjadhav55@gmail.com)  
 linkedin · [in/vaishnavipjadhav](https://www.linkedin.com/in/vaishnavipjadhav/)  
 twitter · [@VaishnaviJ05](https://x.com/VaishnaviJ05)  
 
